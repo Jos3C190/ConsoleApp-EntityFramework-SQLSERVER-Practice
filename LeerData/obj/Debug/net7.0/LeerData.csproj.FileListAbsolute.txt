@@ -1,0 +1,15 @@
+C:\NetCore\LeerData\bin\Debug\net7.0\LeerData.exe
+C:\NetCore\LeerData\bin\Debug\net7.0\LeerData.deps.json
+C:\NetCore\LeerData\bin\Debug\net7.0\LeerData.runtimeconfig.json
+C:\NetCore\LeerData\bin\Debug\net7.0\LeerData.dll
+C:\NetCore\LeerData\bin\Debug\net7.0\LeerData.pdb
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.csproj.AssemblyReference.cache
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.AssemblyInfoInputs.cache
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.AssemblyInfo.cs
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.csproj.CoreCompileInputs.cache
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.dll
+C:\NetCore\LeerData\obj\Debug\net7.0\refint\LeerData.dll
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.pdb
+C:\NetCore\LeerData\obj\Debug\net7.0\LeerData.genruntimeconfig.cache
+C:\NetCore\LeerData\obj\Debug\net7.0\ref\LeerData.dll
