@@ -1,7 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace LeerData
 {
@@ -9,7 +8,15 @@ namespace LeerData
     {
         static void Main(string[] arg) 
         {
-            Console.WriteLine("Hello, this is a practice with ASP.NET Core");
+            
+            using(var db = new AppVentaCursosContext()) {
+                var cursos = db.Curso.AsNoTracking();
+                
+                foreach(var curso in cursos) {
+                    Console.WriteLine(curso.Titulo + "\t | \t" + curso.Descripcion);
+                }
+            }
+
         }
     }
 }
