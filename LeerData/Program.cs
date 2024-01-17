@@ -9,7 +9,7 @@ namespace LeerData
     {
         static void Main(string[] arg) 
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, this is a practice with ASP.NET Core");
         }
     }
 }
