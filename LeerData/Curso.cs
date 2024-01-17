@@ -8,7 +8,6 @@ namespace LeerData
         public string? Titulo { get; set; }
         public string? Descripcion { get; set; }
         public System.DateTime FechaPublicacion { get; set; }
-
-
+        public Precio PrecioPromocion { get; set; }
     }
 }
